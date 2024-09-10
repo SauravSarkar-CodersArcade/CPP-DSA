@@ -1,0 +1,789 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DSAB2407CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP-Debug-18ac8aec529a411a0e18.json",
+					"name" : "DSAB2407CPP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_0-Debug-e8cc79a1398030125adf.json",
+					"name" : "DSAB2407CPP_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_1-Debug-2977877894503ae2e040.json",
+					"name" : "DSAB2407CPP_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_10-Debug-25954aaeea3884118ab4.json",
+					"name" : "DSAB2407CPP_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_11-Debug-48087f50551552271812.json",
+					"name" : "DSAB2407CPP_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_12-Debug-022b535182504413cdb1.json",
+					"name" : "DSAB2407CPP_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_13-Debug-c2e072de9c61f82455ca.json",
+					"name" : "DSAB2407CPP_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_14-Debug-ab6cbbf7ad1323329d94.json",
+					"name" : "DSAB2407CPP_14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_15-Debug-02d7c6e5839fc027b2ec.json",
+					"name" : "DSAB2407CPP_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_16-Debug-bb919e3b2b86be9914bf.json",
+					"name" : "DSAB2407CPP_16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_17-Debug-553e65846e59e354f0c7.json",
+					"name" : "DSAB2407CPP_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_18-Debug-6031ccfcbc71c6569c15.json",
+					"name" : "DSAB2407CPP_18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_19-Debug-dcd42f71a291a220e5dc.json",
+					"name" : "DSAB2407CPP_19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_2-Debug-01e1831427da43fd061b.json",
+					"name" : "DSAB2407CPP_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_20-Debug-1e69ff02eed388a37573.json",
+					"name" : "DSAB2407CPP_20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_21-Debug-e1976d0400e4ff6f8356.json",
+					"name" : "DSAB2407CPP_21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_22-Debug-3463f763ea52746e2ed4.json",
+					"name" : "DSAB2407CPP_22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_23-Debug-e032da1a350bc6e2669f.json",
+					"name" : "DSAB2407CPP_23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_24-Debug-2762056e81c36a5742fe.json",
+					"name" : "DSAB2407CPP_24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_25-Debug-aee693fe487fb9c52666.json",
+					"name" : "DSAB2407CPP_25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_26::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_26-Debug-7ae734349c833d63fff8.json",
+					"name" : "DSAB2407CPP_26",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_27::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_27-Debug-5624e992e5ec5fb76d50.json",
+					"name" : "DSAB2407CPP_27",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_28::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_28-Debug-32ab1c75679ab0d5e5de.json",
+					"name" : "DSAB2407CPP_28",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_29::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_29-Debug-a99a7b02fa3d511e8606.json",
+					"name" : "DSAB2407CPP_29",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_3-Debug-5243fab1ecefd13fc176.json",
+					"name" : "DSAB2407CPP_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_30::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_30-Debug-24a4f07cc9a501c828a6.json",
+					"name" : "DSAB2407CPP_30",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_31-Debug-eeabdaab5ac9ecf467e0.json",
+					"name" : "DSAB2407CPP_31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_32-Debug-1e312aaf24040aad92b7.json",
+					"name" : "DSAB2407CPP_32",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_33::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_33-Debug-bd78d41d57dd20a62aa1.json",
+					"name" : "DSAB2407CPP_33",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_34::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_34-Debug-296108b8c50383d5af4e.json",
+					"name" : "DSAB2407CPP_34",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_35::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_35-Debug-a51336ce566216f8ed7e.json",
+					"name" : "DSAB2407CPP_35",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_36::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_36-Debug-a77417683b4e15e8a9c0.json",
+					"name" : "DSAB2407CPP_36",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_37::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_37-Debug-0119b6e298c273899939.json",
+					"name" : "DSAB2407CPP_37",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_38::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_38-Debug-744655fa907050da7812.json",
+					"name" : "DSAB2407CPP_38",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_39::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_39-Debug-dd063c155c970fac0c39.json",
+					"name" : "DSAB2407CPP_39",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_4-Debug-59bb3061c7e47a960d4f.json",
+					"name" : "DSAB2407CPP_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_40::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_40-Debug-8d1da9886bbd6d9615ae.json",
+					"name" : "DSAB2407CPP_40",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_41::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_41-Debug-33cd8f46bc1f0687f1c2.json",
+					"name" : "DSAB2407CPP_41",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_42::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_42-Debug-d09c4eab40af7aa17e7e.json",
+					"name" : "DSAB2407CPP_42",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_43::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_43-Debug-f74ce6a3d35f7518d502.json",
+					"name" : "DSAB2407CPP_43",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_44::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_44-Debug-ac1680bc9baa700a604e.json",
+					"name" : "DSAB2407CPP_44",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_45::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_45-Debug-2259687b7b1aef81fb03.json",
+					"name" : "DSAB2407CPP_45",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_46::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_46-Debug-189a0bb60b945d123c16.json",
+					"name" : "DSAB2407CPP_46",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_47::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_47-Debug-3035046b60a2b9dbf6ba.json",
+					"name" : "DSAB2407CPP_47",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_48::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_48-Debug-00885a1ec5fab9146e80.json",
+					"name" : "DSAB2407CPP_48",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_49::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_49-Debug-80edcfb31d9269e1fd27.json",
+					"name" : "DSAB2407CPP_49",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_5-Debug-763821d775fb4f75bd49.json",
+					"name" : "DSAB2407CPP_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_50::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_50-Debug-0e0196e9bbdd6edd26c1.json",
+					"name" : "DSAB2407CPP_50",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_51::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_51-Debug-d6de1f956b9b8295c238.json",
+					"name" : "DSAB2407CPP_51",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_52::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_52-Debug-8729a76441c7b7a26cf5.json",
+					"name" : "DSAB2407CPP_52",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_53::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_53-Debug-33698badf59f7ecb22c3.json",
+					"name" : "DSAB2407CPP_53",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_54::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_54-Debug-510862959c991debe7f7.json",
+					"name" : "DSAB2407CPP_54",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_55::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_55-Debug-4d01e608c37077eb6fb8.json",
+					"name" : "DSAB2407CPP_55",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_56::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_56-Debug-5b5ef020274003f0cdb9.json",
+					"name" : "DSAB2407CPP_56",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_57::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_57-Debug-f4a2fa6bd5a984134ca2.json",
+					"name" : "DSAB2407CPP_57",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_58::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_58-Debug-af5e9ed713b6156802f3.json",
+					"name" : "DSAB2407CPP_58",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_59::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_59-Debug-97fa3ccd9dd4178500bc.json",
+					"name" : "DSAB2407CPP_59",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_6-Debug-b066772bf9bdd66c9582.json",
+					"name" : "DSAB2407CPP_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_60::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_60-Debug-5fe232f66f5e125f8de6.json",
+					"name" : "DSAB2407CPP_60",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_61::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_61-Debug-7950be7d67b20c24c80d.json",
+					"name" : "DSAB2407CPP_61",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_62::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_62-Debug-1d739596bfc5975a0aa8.json",
+					"name" : "DSAB2407CPP_62",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_63::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_63-Debug-ed4b6fee6366528f4eb1.json",
+					"name" : "DSAB2407CPP_63",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_64::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_64-Debug-4cbfbe191a60e6f93aec.json",
+					"name" : "DSAB2407CPP_64",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_65::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_65-Debug-3fe83a3ce564515cccc5.json",
+					"name" : "DSAB2407CPP_65",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_66::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_66-Debug-450e695943f0c1e7d32e.json",
+					"name" : "DSAB2407CPP_66",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_67::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_67-Debug-6a47c58c97e56dcd4013.json",
+					"name" : "DSAB2407CPP_67",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_68::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_68-Debug-cf7f5801c90742360e29.json",
+					"name" : "DSAB2407CPP_68",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_69::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_69-Debug-692f73006bf434f3ece2.json",
+					"name" : "DSAB2407CPP_69",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_7-Debug-be059dd6a2e39921bda8.json",
+					"name" : "DSAB2407CPP_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_70::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_70-Debug-3d917ca1d9613ea30e08.json",
+					"name" : "DSAB2407CPP_70",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_71::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_71-Debug-db122ad7d9b811f13a91.json",
+					"name" : "DSAB2407CPP_71",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_72::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_72-Debug-c15b6fd37655f22dcd64.json",
+					"name" : "DSAB2407CPP_72",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_73::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_73-Debug-fa1e0d6c88e0d891b639.json",
+					"name" : "DSAB2407CPP_73",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_74::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_74-Debug-ed80aa95686317fe5618.json",
+					"name" : "DSAB2407CPP_74",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_75::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_75-Debug-3ce9c40b5d972585a0a3.json",
+					"name" : "DSAB2407CPP_75",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_76::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_76-Debug-06708224132409b0a1fe.json",
+					"name" : "DSAB2407CPP_76",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_77::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_77-Debug-d4342acef05ca852d933.json",
+					"name" : "DSAB2407CPP_77",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_78::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_78-Debug-212f057a48ac98164f29.json",
+					"name" : "DSAB2407CPP_78",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_79::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_79-Debug-33df90fd6f036164cb51.json",
+					"name" : "DSAB2407CPP_79",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_8-Debug-97978bd82174eb5da639.json",
+					"name" : "DSAB2407CPP_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_80::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_80-Debug-cfacf44100abcf44282a.json",
+					"name" : "DSAB2407CPP_80",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAB2407CPP_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAB2407CPP_9-Debug-34bf8a822f3b59a8564b.json",
+					"name" : "DSAB2407CPP_9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Saurav/CLionProjects/DSAB2407CPP/cmake-build-debug",
+		"source" : "C:/Users/Saurav/CLionProjects/DSAB2407CPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
