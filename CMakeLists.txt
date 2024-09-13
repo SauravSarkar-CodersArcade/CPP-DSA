@@ -89,3 +89,7 @@ add_executable(DSAB2407CPP_81 DataStructures/Graphs/GraphAlgos/TopologicalSort.c
 add_executable(DSAB2407CPP_82 DataStructures/Graphs/GraphAlgos/TopologicalSortKahn'sAlgoBFS.cpp)
 add_executable(DSAB2407CPP_83 DataStructures/Graphs/GraphAlgos/TopoSortKahn'sAlgoDirectedGraphCycleDetection.cpp)
 add_executable(DSAB2407CPP_84 DataStructures/Graphs/Questions/CountEdgesAndNodes.cpp)
+add_executable(DSAB2407CPP_85 DataStructures/Graphs/GraphAlgos/Dijkstra'sAlgoPriorityQueue.cpp)
+add_executable(DSAB2407CPP_86 DataStructures/Graphs/GraphAlgos/Dijkstra'sAlgoSet.cpp)
+add_executable(DSAB2407CPP_87 DataStructures/Graphs/GraphAlgos/BellmanFordAlgorithm.cpp)
+add_executable(DSAB2407CPP_88 DataStructures/Graphs/GraphAlgos/FloydWarshallAlgorithm.cpp)
