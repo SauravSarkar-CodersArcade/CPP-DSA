@@ -150,6 +150,7 @@
 1	491	7470719531762656	CMakeFiles/DSAB2407CPP_69.dir/DataStructures/Graphs/GraphUsingAdjacencyListDirected.cpp.obj	408564361a54a4be
 491	571	7470719532524251	DSAB2407CPP_69.exe	697bf568adce4222
 3	456	7470732332774558	CMakeFiles/DSAB2407CPP_70.dir/DataStructures/Graphs/GraphUsingAdjListDirectedWeighted.cpp.obj	7390690e386ae566
+1	3496	7481707679796634	CMakeFiles/DSAB2407CPP_90.dir/DataStructures/Graphs/GraphAlgos/Prim'sAlgoToPrintMSTEdges.cpp.obj	dfd4963ce2b7e066
 457	539	7470732333572875	DSAB2407CPP_70.exe	fb66a0407f0bd90a
 1	642	7470772019745020	CMakeFiles/DSAB2407CPP_71.dir/DataStructures/Graphs/Traversal/GraphDFSTraversal.cpp.obj	842a49ffdd950f80
 2	461	7471598850124729	CMakeFiles/DSAB2407CPP_72.dir/DataStructures/Graphs/Traversal/GraphDFSTraversal.cpp.obj	7f835adfa64dda6b
@@ -180,5 +181,14 @@
 5	606	7481655737557453	CMakeFiles/DSAB2407CPP_19.dir/Algorithms/Searching/BinarySearch.cpp.obj	bcc02c8e9214a807
 1	3159	7481698718923113	CMakeFiles/DSAB2407CPP_89.dir/DataStructures/Graphs/GraphAlgos/Prim'sAlgorithm.cpp.obj	b1018111b67d2039
 3160	3319	7481698720440558	DSAB2407CPP_89.exe	4143b9da2569c74a
-1	3496	7481707679796634	CMakeFiles/DSAB2407CPP_90.dir/DataStructures/Graphs/GraphAlgos/Prim'sAlgoToPrintMSTEdges.cpp.obj	dfd4963ce2b7e066
 3497	3653	7481707681321945	DSAB2407CPP_90.exe	2c46b80d31de1324
+1	1878	7482557353020847	CMakeFiles/DSAB2407CPP_91.dir/DataStructures/Graphs/DisjointSetDataStructure/DisjointSetUnionByRank.cpp.obj	561db770473d47ab
+1878	1979	7482557353892859	DSAB2407CPP_91.exe	32813fd578244f58
+3	1544	7482557572134115	CMakeFiles/DSAB2407CPP_91.dir/DataStructures/Graphs/DisjointSetDataStructure/DisjointSetUnionByRank.cpp.obj	561db770473d47ab
+1544	1620	7482557572872442	DSAB2407CPP_91.exe	32813fd578244f58
+0	1818	7482565612114257	CMakeFiles/DSAB2407CPP_92.dir/DataStructures/Graphs/DisjointSetDataStructure/DisjointSetUnionBySize.cpp.obj	1e5e5e3a7c11629a
+1818	1895	7482565612869045	DSAB2407CPP_92.exe	b4ef12ee3931f769
+2	1474	7482566254098714	CMakeFiles/DSAB2407CPP_92.dir/DataStructures/Graphs/DisjointSetDataStructure/DisjointSetUnionBySize.cpp.obj	1e5e5e3a7c11629a
+1475	1551	7482566254828003	DSAB2407CPP_92.exe	b4ef12ee3931f769
+3	1964	7482566717123517	CMakeFiles/DSAB2407CPP_92.dir/DataStructures/Graphs/DisjointSetDataStructure/DisjointSetUnionBySize.cpp.obj	1e5e5e3a7c11629a
+1965	2039	7482566717839200	DSAB2407CPP_92.exe	b4ef12ee3931f769

@@ -95,3 +95,5 @@ add_executable(DSAB2407CPP_87 DataStructures/Graphs/GraphAlgos/BellmanFordAlgori
 add_executable(DSAB2407CPP_88 DataStructures/Graphs/GraphAlgos/FloydWarshallAlgorithm.cpp)
 add_executable(DSAB2407CPP_89 DataStructures/Graphs/GraphAlgos/Prim'sAlgorithm.cpp)
 add_executable(DSAB2407CPP_90 DataStructures/Graphs/GraphAlgos/Prim'sAlgoToPrintMSTEdges.cpp)
+add_executable(DSAB2407CPP_91 DataStructures/Graphs/DisjointSetDataStructure/DisjointSetUnionByRank.cpp)
+add_executable(DSAB2407CPP_92 DataStructures/Graphs/DisjointSetDataStructure/DisjointSetUnionBySize.cpp)
