@@ -3142,6 +3142,105 @@ build DSAB2407CPP_92.exe: CXX_EXECUTABLE_LINKER__DSAB2407CPP_92_Debug CMakeFiles
   TARGET_IMPLIB = libDSAB2407CPP_92.dll.a
   TARGET_PDB = DSAB2407CPP_92.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target DSAB2407CPP_93
+
+
+#############################################
+# Order-only phony target for DSAB2407CPP_93
+
+build cmake_object_order_depends_target_DSAB2407CPP_93: phony || CMakeFiles/DSAB2407CPP_93.dir
+
+build CMakeFiles/DSAB2407CPP_93.dir/DataStructures/Graphs/DisjointSetDataStructure/Kruskal'sAlgorithm.cpp.obj: CXX_COMPILER__DSAB2407CPP_93_Debug C$:/Users/Saurav/CLionProjects/DSAB2407CPP/DataStructures/Graphs/DisjointSetDataStructure/Kruskal'sAlgorithm.cpp || cmake_object_order_depends_target_DSAB2407CPP_93
+  DEP_FILE = "CMakeFiles\DSAB2407CPP_93.dir\DataStructures\Graphs\DisjointSetDataStructure\Kruskal'sAlgorithm.cpp.obj.d"
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\DSAB2407CPP_93.dir
+  OBJECT_FILE_DIR = CMakeFiles\DSAB2407CPP_93.dir\DataStructures\Graphs\DisjointSetDataStructure
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target DSAB2407CPP_93
+
+
+#############################################
+# Link the executable DSAB2407CPP_93.exe
+
+build DSAB2407CPP_93.exe: CXX_EXECUTABLE_LINKER__DSAB2407CPP_93_Debug CMakeFiles/DSAB2407CPP_93.dir/DataStructures/Graphs/DisjointSetDataStructure/Kruskal'sAlgorithm.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\DSAB2407CPP_93.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = DSAB2407CPP_93.exe
+  TARGET_IMPLIB = libDSAB2407CPP_93.dll.a
+  TARGET_PDB = DSAB2407CPP_93.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target DSAB2407CPP_94
+
+
+#############################################
+# Order-only phony target for DSAB2407CPP_94
+
+build cmake_object_order_depends_target_DSAB2407CPP_94: phony || CMakeFiles/DSAB2407CPP_94.dir
+
+build CMakeFiles/DSAB2407CPP_94.dir/Algorithms/BackTracking/RatInAMaze.cpp.obj: CXX_COMPILER__DSAB2407CPP_94_Debug C$:/Users/Saurav/CLionProjects/DSAB2407CPP/Algorithms/BackTracking/RatInAMaze.cpp || cmake_object_order_depends_target_DSAB2407CPP_94
+  DEP_FILE = CMakeFiles\DSAB2407CPP_94.dir\Algorithms\BackTracking\RatInAMaze.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\DSAB2407CPP_94.dir
+  OBJECT_FILE_DIR = CMakeFiles\DSAB2407CPP_94.dir\Algorithms\BackTracking
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target DSAB2407CPP_94
+
+
+#############################################
+# Link the executable DSAB2407CPP_94.exe
+
+build DSAB2407CPP_94.exe: CXX_EXECUTABLE_LINKER__DSAB2407CPP_94_Debug CMakeFiles/DSAB2407CPP_94.dir/Algorithms/BackTracking/RatInAMaze.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\DSAB2407CPP_94.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = DSAB2407CPP_94.exe
+  TARGET_IMPLIB = libDSAB2407CPP_94.dll.a
+  TARGET_PDB = DSAB2407CPP_94.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target DSAB2407CPP_95
+
+
+#############################################
+# Order-only phony target for DSAB2407CPP_95
+
+build cmake_object_order_depends_target_DSAB2407CPP_95: phony || CMakeFiles/DSAB2407CPP_95.dir
+
+build CMakeFiles/DSAB2407CPP_95.dir/Algorithms/BackTracking/SudokuSolver.cpp.obj: CXX_COMPILER__DSAB2407CPP_95_Debug C$:/Users/Saurav/CLionProjects/DSAB2407CPP/Algorithms/BackTracking/SudokuSolver.cpp || cmake_object_order_depends_target_DSAB2407CPP_95
+  DEP_FILE = CMakeFiles\DSAB2407CPP_95.dir\Algorithms\BackTracking\SudokuSolver.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\DSAB2407CPP_95.dir
+  OBJECT_FILE_DIR = CMakeFiles\DSAB2407CPP_95.dir\Algorithms\BackTracking
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target DSAB2407CPP_95
+
+
+#############################################
+# Link the executable DSAB2407CPP_95.exe
+
+build DSAB2407CPP_95.exe: CXX_EXECUTABLE_LINKER__DSAB2407CPP_95_Debug CMakeFiles/DSAB2407CPP_95.dir/Algorithms/BackTracking/SudokuSolver.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\DSAB2407CPP_95.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = DSAB2407CPP_95.exe
+  TARGET_IMPLIB = libDSAB2407CPP_95.dll.a
+  TARGET_PDB = DSAB2407CPP_95.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -3356,6 +3455,12 @@ build DSAB2407CPP_91: phony DSAB2407CPP_91.exe
 
 build DSAB2407CPP_92: phony DSAB2407CPP_92.exe
 
+build DSAB2407CPP_93: phony DSAB2407CPP_93.exe
+
+build DSAB2407CPP_94: phony DSAB2407CPP_94.exe
+
+build DSAB2407CPP_95: phony DSAB2407CPP_95.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -3364,7 +3469,7 @@ build DSAB2407CPP_92: phony DSAB2407CPP_92.exe
 #############################################
 # Folder: C:/Users/Saurav/CLionProjects/DSAB2407CPP/cmake-build-debug
 
-build all: phony DSAB2407CPP.exe DSAB2407CPP_0.exe DSAB2407CPP_1.exe DSAB2407CPP_2.exe DSAB2407CPP_3.exe DSAB2407CPP_4.exe DSAB2407CPP_5.exe DSAB2407CPP_6.exe DSAB2407CPP_7.exe DSAB2407CPP_8.exe DSAB2407CPP_9.exe DSAB2407CPP_10.exe DSAB2407CPP_11.exe DSAB2407CPP_12.exe DSAB2407CPP_13.exe DSAB2407CPP_14.exe DSAB2407CPP_15.exe DSAB2407CPP_16.exe DSAB2407CPP_17.exe DSAB2407CPP_18.exe DSAB2407CPP_19.exe DSAB2407CPP_20.exe DSAB2407CPP_21.exe DSAB2407CPP_22.exe DSAB2407CPP_23.exe DSAB2407CPP_24.exe DSAB2407CPP_25.exe DSAB2407CPP_26.exe DSAB2407CPP_27.exe DSAB2407CPP_28.exe DSAB2407CPP_29.exe DSAB2407CPP_30.exe DSAB2407CPP_31.exe DSAB2407CPP_32.exe DSAB2407CPP_33.exe DSAB2407CPP_34.exe DSAB2407CPP_35.exe DSAB2407CPP_36.exe DSAB2407CPP_37.exe DSAB2407CPP_38.exe DSAB2407CPP_39.exe DSAB2407CPP_40.exe DSAB2407CPP_41.exe DSAB2407CPP_42.exe DSAB2407CPP_43.exe DSAB2407CPP_44.exe DSAB2407CPP_45.exe DSAB2407CPP_46.exe DSAB2407CPP_47.exe DSAB2407CPP_48.exe DSAB2407CPP_49.exe DSAB2407CPP_50.exe DSAB2407CPP_51.exe DSAB2407CPP_52.exe DSAB2407CPP_53.exe DSAB2407CPP_54.exe DSAB2407CPP_55.exe DSAB2407CPP_56.exe DSAB2407CPP_57.exe DSAB2407CPP_58.exe DSAB2407CPP_59.exe DSAB2407CPP_60.exe DSAB2407CPP_61.exe DSAB2407CPP_62.exe DSAB2407CPP_63.exe DSAB2407CPP_64.exe DSAB2407CPP_65.exe DSAB2407CPP_66.exe DSAB2407CPP_67.exe DSAB2407CPP_68.exe DSAB2407CPP_69.exe DSAB2407CPP_70.exe DSAB2407CPP_71.exe DSAB2407CPP_72.exe DSAB2407CPP_73.exe DSAB2407CPP_74.exe DSAB2407CPP_75.exe DSAB2407CPP_76.exe DSAB2407CPP_77.exe DSAB2407CPP_78.exe DSAB2407CPP_79.exe DSAB2407CPP_80.exe DSAB2407CPP_81.exe DSAB2407CPP_82.exe DSAB2407CPP_83.exe DSAB2407CPP_84.exe DSAB2407CPP_85.exe DSAB2407CPP_86.exe DSAB2407CPP_87.exe DSAB2407CPP_88.exe DSAB2407CPP_89.exe DSAB2407CPP_90.exe DSAB2407CPP_91.exe DSAB2407CPP_92.exe
+build all: phony DSAB2407CPP.exe DSAB2407CPP_0.exe DSAB2407CPP_1.exe DSAB2407CPP_2.exe DSAB2407CPP_3.exe DSAB2407CPP_4.exe DSAB2407CPP_5.exe DSAB2407CPP_6.exe DSAB2407CPP_7.exe DSAB2407CPP_8.exe DSAB2407CPP_9.exe DSAB2407CPP_10.exe DSAB2407CPP_11.exe DSAB2407CPP_12.exe DSAB2407CPP_13.exe DSAB2407CPP_14.exe DSAB2407CPP_15.exe DSAB2407CPP_16.exe DSAB2407CPP_17.exe DSAB2407CPP_18.exe DSAB2407CPP_19.exe DSAB2407CPP_20.exe DSAB2407CPP_21.exe DSAB2407CPP_22.exe DSAB2407CPP_23.exe DSAB2407CPP_24.exe DSAB2407CPP_25.exe DSAB2407CPP_26.exe DSAB2407CPP_27.exe DSAB2407CPP_28.exe DSAB2407CPP_29.exe DSAB2407CPP_30.exe DSAB2407CPP_31.exe DSAB2407CPP_32.exe DSAB2407CPP_33.exe DSAB2407CPP_34.exe DSAB2407CPP_35.exe DSAB2407CPP_36.exe DSAB2407CPP_37.exe DSAB2407CPP_38.exe DSAB2407CPP_39.exe DSAB2407CPP_40.exe DSAB2407CPP_41.exe DSAB2407CPP_42.exe DSAB2407CPP_43.exe DSAB2407CPP_44.exe DSAB2407CPP_45.exe DSAB2407CPP_46.exe DSAB2407CPP_47.exe DSAB2407CPP_48.exe DSAB2407CPP_49.exe DSAB2407CPP_50.exe DSAB2407CPP_51.exe DSAB2407CPP_52.exe DSAB2407CPP_53.exe DSAB2407CPP_54.exe DSAB2407CPP_55.exe DSAB2407CPP_56.exe DSAB2407CPP_57.exe DSAB2407CPP_58.exe DSAB2407CPP_59.exe DSAB2407CPP_60.exe DSAB2407CPP_61.exe DSAB2407CPP_62.exe DSAB2407CPP_63.exe DSAB2407CPP_64.exe DSAB2407CPP_65.exe DSAB2407CPP_66.exe DSAB2407CPP_67.exe DSAB2407CPP_68.exe DSAB2407CPP_69.exe DSAB2407CPP_70.exe DSAB2407CPP_71.exe DSAB2407CPP_72.exe DSAB2407CPP_73.exe DSAB2407CPP_74.exe DSAB2407CPP_75.exe DSAB2407CPP_76.exe DSAB2407CPP_77.exe DSAB2407CPP_78.exe DSAB2407CPP_79.exe DSAB2407CPP_80.exe DSAB2407CPP_81.exe DSAB2407CPP_82.exe DSAB2407CPP_83.exe DSAB2407CPP_84.exe DSAB2407CPP_85.exe DSAB2407CPP_86.exe DSAB2407CPP_87.exe DSAB2407CPP_88.exe DSAB2407CPP_89.exe DSAB2407CPP_90.exe DSAB2407CPP_91.exe DSAB2407CPP_92.exe DSAB2407CPP_93.exe DSAB2407CPP_94.exe DSAB2407CPP_95.exe
 
 # =============================================================================
 # Built-in targets

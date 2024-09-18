@@ -97,3 +97,6 @@ add_executable(DSAB2407CPP_89 DataStructures/Graphs/GraphAlgos/Prim'sAlgorithm.c
 add_executable(DSAB2407CPP_90 DataStructures/Graphs/GraphAlgos/Prim'sAlgoToPrintMSTEdges.cpp)
 add_executable(DSAB2407CPP_91 DataStructures/Graphs/DisjointSetDataStructure/DisjointSetUnionByRank.cpp)
 add_executable(DSAB2407CPP_92 DataStructures/Graphs/DisjointSetDataStructure/DisjointSetUnionBySize.cpp)
+add_executable(DSAB2407CPP_93 DataStructures/Graphs/DisjointSetDataStructure/Kruskal'sAlgorithm.cpp)
+add_executable(DSAB2407CPP_94 Algorithms/BackTracking/RatInAMaze.cpp)
+add_executable(DSAB2407CPP_95 Algorithms/BackTracking/SudokuSolver.cpp)
