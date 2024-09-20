@@ -158,18 +158,21 @@ vector<int> separateNegativeAndPositive(vector<int> &nums){
     return nums;
 }
 int main() {
-    char ch;
-    cin >> ch;
-    // A -> 65 a = 97 32
-    // A - Z
-    // a - z
-    // -1
-    if (ch >= 'A' && ch <= 'Z'){
-        cout << 1 << endl;
-    }else if  (ch >= 'a' && ch <= 'z'){
-        cout << 0 << endl;
-    }else{
-        cout << -1 << endl;
-    }
+//    char ch;
+//    cin >> ch;
+//    // A -> 65 a = 97 32
+//    // A - Z
+//    // a - z
+//    // -1
+//    if (ch >= 'A' && ch <= 'Z'){
+//        cout << 1 << endl;
+//    }else if  (ch >= 'a' && ch <= 'z'){
+//        cout << 0 << endl;
+//    }else{
+//        cout << -1 << endl;
+//    }
+    string str = "23";
+    int number = str[0] - '0'; // Ascii values
+    cout << number;
     return 0;
 }
