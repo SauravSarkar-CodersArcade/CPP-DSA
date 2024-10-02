@@ -118,3 +118,7 @@ add_executable(DSAB2407CPP_110 Algorithms/GreedyAlgorithms/PaddingAndGreedyAlign
 add_executable(DSAB2407CPP_111 Algorithms/GreedyAlgorithms/ActivitySelectionProblem.cpp)
 add_executable(DSAB2407CPP_112 Algorithms/GreedyAlgorithms/JobSchedulingProblem.cpp)
 add_executable(DSAB2407CPP_113 Algorithms/GreedyAlgorithms/MinimumNumberOfCoins.cpp)
+add_executable(DSAB2407CPP_114 Algorithms/GreedyAlgorithms/ChocolateDistributionGFG.cpp)
+add_executable(DSAB2407CPP_115 Algorithms/GreedyAlgorithms/MinimumCostOfRopes.cpp)
+add_executable(DSAB2407CPP_116 Algorithms/GreedyAlgorithms/FractionalKnapsack.cpp)
+add_executable(DSAB2407CPP_117 Algorithms/GreedyAlgorithms/NikunjAndDonuts.cpp)

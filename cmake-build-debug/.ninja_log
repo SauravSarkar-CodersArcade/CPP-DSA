@@ -96,6 +96,7 @@
 397	496	7458327211444066	DSAB2407CPP_38.exe	103c6ead9f4fea5c
 3	367	7458339451063452	CMakeFiles/DSAB2407CPP_39.dir/Problems/IdenticalTrees.cpp.obj	d0b811dc458ffe13
 2	355	7458387946884429	CMakeFiles/DSAB2407CPP_40.dir/DataStructures/Trees/BinarySearchTrees/BSTImplementation.cpp.obj	c82d688461326c06
+3	431	7493821059983688	CMakeFiles/DSAB2407CPP_113.dir/Algorithms/GreedyAlgorithms/MinimumNumberOfCoins.cpp.obj	f9b2da4eee1ad7db
 355	425	7458387947555495	DSAB2407CPP_40.exe	c5b4f6997ed0e29e
 3	1584	7477662941202335	CMakeFiles/DSAB2407CPP_84.dir/DataStructures/Graphs/Questions/CountEdgesAndNodes.cpp.obj	b8f157427e7aee99
 1	550	7459206262299745	CMakeFiles/DSAB2407CPP_41.dir/Algorithms/Sorting/QuickSort.cpp.obj	f8b0f75a78a51a5f
@@ -113,6 +114,7 @@
 3	1469	7460099359384630	CMakeFiles/DSAB2407CPP_47.dir/StandardTemplateLibrary/STLForwardList.cpp.obj	dae085c1607a311c
 1469	1551	7460099360190891	DSAB2407CPP_47.exe	2e454b4b1186c4d
 4	398	7460112037806786	CMakeFiles/DSAB2407CPP_48.dir/StandardTemplateLibrary/STLList.cpp.obj	78774cb11d5efc04
+431	507	7493821060718854	DSAB2407CPP_113.exe	d7903b06318a7da9
 2	548	7460916354903134	CMakeFiles/DSAB2407CPP_49.dir/StandardTemplateLibrary/STLMap.cpp.obj	d7a03fbb0b5319bd
 549	652	7460916355916077	DSAB2407CPP_49.exe	8e25f36e0eded03c
 1	2287	7483448480476840	CMakeFiles/DSAB2407CPP_95.dir/Algorithms/BackTracking/SudokuSolver.cpp.obj	1174a02687876666
@@ -222,9 +224,5 @@
 1	713	7493774050376584	CMakeFiles/DSAB2407CPP_111.dir/Algorithms/GreedyAlgorithms/ActivitySelectionProblem.cpp.obj	6b6cf275ddb31690
 714	858	7493774051794680	DSAB2407CPP_111.exe	4472fbf280ccbe8f
 1	730	7493798519371946	CMakeFiles/DSAB2407CPP_112.dir/Algorithms/GreedyAlgorithms/JobSchedulingProblem.cpp.obj	578728aa72bd25df
-0	581	7493820579689263	CMakeFiles/DSAB2407CPP_113.dir/Algorithms/GreedyAlgorithms/MinimumNumberOfCoins.cpp.obj	f9b2da4eee1ad7db
-581	668	7493820580534058	DSAB2407CPP_113.exe	d7903b06318a7da9
-3	425	7493820834025598	CMakeFiles/DSAB2407CPP_113.dir/Algorithms/GreedyAlgorithms/MinimumNumberOfCoins.cpp.obj	f9b2da4eee1ad7db
-425	510	7493820834769336	DSAB2407CPP_113.exe	d7903b06318a7da9
-3	431	7493821059983688	CMakeFiles/DSAB2407CPP_113.dir/Algorithms/GreedyAlgorithms/MinimumNumberOfCoins.cpp.obj	f9b2da4eee1ad7db
-431	507	7493821060718854	DSAB2407CPP_113.exe	d7903b06318a7da9
+0	909	7495737263027929	CMakeFiles/DSAB2407CPP_117.dir/Algorithms/GreedyAlgorithms/NikunjAndDonuts.cpp.obj	c3d6c8e5683aab36
+910	1157	7495737265474760	DSAB2407CPP_117.exe	990c3b8e1428e0d5
