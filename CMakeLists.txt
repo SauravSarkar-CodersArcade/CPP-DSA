@@ -122,3 +122,5 @@ add_executable(DSAB2407CPP_114 Algorithms/GreedyAlgorithms/ChocolateDistribution
 add_executable(DSAB2407CPP_115 Algorithms/GreedyAlgorithms/MinimumCostOfRopes.cpp)
 add_executable(DSAB2407CPP_116 Algorithms/GreedyAlgorithms/FractionalKnapsack.cpp)
 add_executable(DSAB2407CPP_117 Algorithms/GreedyAlgorithms/NikunjAndDonuts.cpp)
+add_executable(DSAB2407CPP_118 Algorithms/GreedyAlgorithms/PolicemenCatchThieves.cpp)
+add_executable(DSAB2407CPP_119 Algorithms/GreedyAlgorithms/HuffmanEncoding.cpp)
