@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 using namespace std;
 void waveSort(int arr[], int n){
     sort(arr, arr+n);
