@@ -1,0 +1,42 @@
+✅ 3. Sort a Stack using only another Stack
+📌 Problem:
+Sort the elements of a stack in ascending order using only one extra stack (no arrays or recursion).
+
+🧠 Idea:
+Use a second stack (tempStack) to hold sorted elements.
+
+Pop from the original stack, and insert into the correct position in tempStack.
+
+🧪 Dry Run Example:
+Input: original = [3, 5, 1, 4, 2] (Top = Rightmost)
+
+Step-by-Step:
+Let’s process each element from original to tempStack.
+
+Pop 2 from original.
+→ tempStack is empty → Push 2
+✅ tempStack: [2]
+
+Pop 4
+→ 4 > 2 → Push 4
+✅ tempStack: [2, 4]
+
+Pop 1
+→ 1 < 4, pop 4, move to original
+→ 1 < 2, pop 2, move to original
+→ Push 1
+→ Move 2, 4 back from original to tempStack
+✅ tempStack: [1, 2, 4]
+
+Pop 5
+→ 5 > 4 → Push 5
+✅ tempStack: [1, 2, 4, 5]
+
+Pop 3
+→ 3 < 5, pop 5, move to original
+→ 3 < 4, pop 4, move to original
+→ Push 3
+→ Push 4, 5 back
+✅ tempStack: [1, 2, 3, 4, 5]
+
+✅ Final Sorted Stack (ascending, top at right): [1, 2, 3, 4, 5]

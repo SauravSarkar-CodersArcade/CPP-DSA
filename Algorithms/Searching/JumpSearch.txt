@@ -1,0 +1,36 @@
+Let's perform a dry run of the Jump Search algorithm to find the index of the target value 55
+in the following sorted array:
+
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610]
+
+Step 1: Calculate the block size
+- Block size (step) = √n = √16 = 4
+
+Step 2: Jump to the next block
+- Start at index 0
+- Jump to index 0 + 4 = 4
+- Compare the last element of the block (at index 4) with the target value 55:
+    - arr[4] = 3 < 55, so we need to jump to the next block
+
+Step 3: Jump to the next block
+- Current index = 4
+- Jump to index 4 + 4 = 8
+- Compare the last element of the block (at index 8) with the target value 55:
+    - arr[8] = 21 < 55, so we need to jump to the next block
+
+Step 4: Jump to the next block
+- Current index = 8
+- Jump to index 8 + 4 = 12
+- Compare the last element of the block (at index 12) with the target value 55:
+    - arr[12] = 89 > 55, so the target value must be in the previous block
+
+Step 5: Perform a linear search in the previous block
+- Current index = 8
+- Search for the target value 55 in the block from index 8 to 12:
+    - arr[9] = 34 < 55
+    - arr[10] = 55 = 55 (match found!)
+    - Return the index of the target value: 10
+
+The final result is:
+
+Number 55 is at index 10
